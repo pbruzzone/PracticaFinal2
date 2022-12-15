@@ -1,0 +1,4 @@
+﻿Factura;Producto;Detalle;Cantidad;PrecioUnitario
+FAC001;P1;Descripcion P1;50;100
+FAC002;P1;Descripcion P1;5;100
+FAC002;P2;Descripcion P2;10;200
